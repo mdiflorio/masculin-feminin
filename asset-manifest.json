@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.7522343b.chunk.css",
-  "main.js": "/static/js/main.71a8f110.chunk.js",
-  "main.js.map": "/static/js/main.71a8f110.chunk.js.map",
-  "static/js/1.8d2146e8.chunk.js": "/static/js/1.8d2146e8.chunk.js",
-  "static/js/1.8d2146e8.chunk.js.map": "/static/js/1.8d2146e8.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.7522343b.chunk.css.map": "/static/css/main.7522343b.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.0d0e038d540c81f2db06ca509c4c2bf9.js": "/precache-manifest.0d0e038d540c81f2db06ca509c4c2bf9.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/masculin-feminin/static/css/main.7522343b.chunk.css",
+  "main.js": "/masculin-feminin/static/js/main.328f6257.chunk.js",
+  "main.js.map": "/masculin-feminin/static/js/main.328f6257.chunk.js.map",
+  "static/js/1.5fb383a4.chunk.js": "/masculin-feminin/static/js/1.5fb383a4.chunk.js",
+  "static/js/1.5fb383a4.chunk.js.map": "/masculin-feminin/static/js/1.5fb383a4.chunk.js.map",
+  "runtime~main.js": "/masculin-feminin/static/js/runtime~main.3aa8cfc1.js",
+  "runtime~main.js.map": "/masculin-feminin/static/js/runtime~main.3aa8cfc1.js.map",
+  "static/css/main.7522343b.chunk.css.map": "/masculin-feminin/static/css/main.7522343b.chunk.css.map",
+  "index.html": "/masculin-feminin/index.html",
+  "precache-manifest.5e339cf92a33d2bd6dedcf22ce5a7e98.js": "/masculin-feminin/precache-manifest.5e339cf92a33d2bd6dedcf22ce5a7e98.js",
+  "service-worker.js": "/masculin-feminin/service-worker.js"
 }
